@@ -26,7 +26,7 @@ with open(r'C:\Users\ronaldo.pereira\Documents\2024\01-visao-computacional\head_
 
 # Variáveis para controlar o tempo
 start_time = time.time()
-interval_seconds = 30
+interval_seconds = 300
 
 # Variáveis para armazenar informações de pessoas detectadas
 detected_people = set()
